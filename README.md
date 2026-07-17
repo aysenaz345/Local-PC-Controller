@@ -40,7 +40,7 @@ The current version is designed to work locally on the same computer. Future ver
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Remote-PC-Controller.git
+git clone https://github.com/aysenaz345/Local-PC-Controller.git
 ```
 
 Install the required libraries:
@@ -52,7 +52,7 @@ pip install pyautogui pillow
 Run the application:
 
 ```bash
-python main.py
+python uzaktankumanda.py
 ```
 
 ---
